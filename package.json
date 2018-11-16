@@ -1,0 +1,17 @@
+{
+  "name": "media-player",
+  "version": "1.0.0",
+  "description": " This app illustrates the basic usage of the P5js, nodejs, express  and the p5dom library",
+  "main": " server.js",
+  "scripts": {
+    "start":"nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spencer Najib",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "p5": "^0.7.2"
+  }
+}

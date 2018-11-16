@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0>
+    <style>
+       
+
+    </style>
+    <script src="p5/lib/p5.min.js"></script>
+    <script src="p5/lib/addons/p5.dom.min.js"></script>
+    <script src="p5/lib/addons/p5.sound.min.js"></script>
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href=" css/main.css">
+    <!--  JQuery  -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<title> MediaPlayer</title>
+<body>
+    <div class="container-fluid">
+        <div class="jumbotron">
+            <div id='mist' class="container">
+                <p id='intro'>
+                    THIS SITE WAS DEVELOPED TO HOST JAVASCRIPT AND PROCESSINGJS PROJECTS <br> ONLY AUTHORIZED USERS
+                    WILL BE ABLE TO BROWSE THROUGH ALL OF THE PROJECTS
+
+
+                <select id="mysel">
+                    <option value="DEFAULT">DEFAULT</option>
+                    <option value="LIST EDITOR">LIST EDITOR</option>
+                    <option value='MEDIA PLAYER'>MEDIA PLAYER</option>
+                    <option value='WEBCAM'>WEB CAM </option>
+                    <option value='watch'>MY TIME </option>
+                
+                
+                
+                </select>
+                    <div class="form-input">
+                        <div id="inp_stuff">
+                            <label id="labe">ITEM:</label>
+                            <input type='text' id="inp"> <br>
+                        </div>
+
+                        <div id="buts">
+
+                            <input type="button" value="ADD TO LIST" id="btn">
+                            <input type="button" value="REMOVE ITEMS" id="btn2">
+                            <input type="button" value="ACCESS WEB CAM" id="btn3"> <br>
+
+
+                            <h2 class="res"> LIST</h2>
+                        </div>
+                    </div>
+                    <script type="text/javascript" src="p5/sketch.js"></script>
+
+
+                    <ul id="thelist"></ul>
+            </div>
+
+        </div>
+
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,54 @@
+body {
+    font-size: 16px;
+    line-height: 1.3;
+
+
+}
+
+
+#spoon {
+    text-align: center center;
+    font: italic 11px monospace green;
+
+
+
+}
+
+.regist {
+    color: lightblue;
+    text-align: center;
+    font: Bold 24px verdana;
+
+}
+
+.text text-danger {
+    border: 1px solid red;
+    margin: auto;
+    z-index: 1;
+}
+
+#mast {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#mist {
+    padding:200px;
+    margin:50px;
+}
+.info {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+.res {
+
+    text-align: center;
+    font: Bold 24px verdana;
+    color: aqua;
+}
