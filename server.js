@@ -13,7 +13,7 @@ app.use(express.static(__dirname='public'))
 app.use(logger('dev'))
 // init app
 app.listen(port,()=>log(`App started at ${port }`))
-// routers 
+// routes
 app.get('/',(req,res)=>{
     res.sendFile('index.html')
 })
