@@ -11,7 +11,7 @@
 ## Usage of the App
 1. **[Check Out the Online Demo](https://qq9kq8mp26.codesandbox.io/ "click to continue")**
 
-2. **Clone project using git or download zip**
+2. **Clone project using git or download the zipped folder**
 > git clone https://github.com/spencerjibz/Media-player
 >> And then run npm install 
 >>> Open [url](http://localhost:7000/ "localhost:7000")
