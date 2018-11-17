@@ -1,5 +1,5 @@
 # Media-player
- With the P5js libraries, Bootstrap, NodeJS,express, advanced CSS. This is possible. Thanks to the proccessing Foundation. 
+ With the P5js libraries, Bootstrap, NodeJS,express, advanced CSS. Thanks to the proccessing Foundation. 
  The P5dom,P5js,Bootstrap were mainly used for Client-side  while NodeJS(Express) was used for  Server-side
  
  
