@@ -15,3 +15,5 @@
 >``` git clone https://github.com/spencerjibz/Media-player.git ```
 >> And then run npm install,followed by npm start
 >>> Open [url](http://localhost:7000/ "localhost:7000")
+## Licence
+**MIT**
